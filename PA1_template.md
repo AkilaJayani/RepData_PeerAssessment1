@@ -89,9 +89,9 @@ The following steps were taken to handle missing values
 
 1. Calculate and report the total number of missing values in the dataset (i.e. the total number of rows with NAs)
 
-2. Create a new dataset that is equal to the original dataset but with the missing data filled in using the mean of the corresponding 5-minute interval
+2. Create a new dataset that is equal to the original dataset but with the missing data filled in using the **mean of the corresponding 5-minute interval**
 
-3. Make a histogram of the total number of steps taken each day and Calculate and report the mean and median total number of steps taken per day. 
+3. Make a histogram of the total number of steps taken each day and calculate and report the mean and median total number of steps taken per day. 
 
 ```r
 #Calculate total number of missing values
