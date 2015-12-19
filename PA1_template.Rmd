@@ -102,11 +102,9 @@ hist(totalDailySteps2,main="Histogram of Total Number of Steps Taken per Day",
 
 #Calculate the mean of the total number of steps taken per day using the new dataset
 meanStep2<-mean(totalDailySteps2)
-meanStep2
 
 #Calculate the median of the total number of steps taken per day using the new dataset
 medianStep2<-median(totalDailySteps2)
-medianStep2
 ```
 Mean number of steps taken per day using the new dataset = `r meanStep2`  
 Median number of steps taken per day using the new dataset = `r medianStep2`
